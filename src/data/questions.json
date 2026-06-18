@@ -1,0 +1,276 @@
+{ "1":[
+  {
+    "question": "How many players are there in a cricket team?",
+    "options": ["9", "10", "11", "12"],
+    "answer": "11"
+  },
+  {
+    "question": "Who is known as the God of Cricket?",
+    "options": ["Virat Kohli", "MS Dhoni", "Sachin Tendulkar", "Rohit Sharma"],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "question": "Who had the top score in ODI history?",
+    "options": ["Virat Kohli", "MS Dhoni", "Sachin Tendulkar", "Rohit Sharma"],
+    "answer": "Rohit Sharma"
+  },
+  {
+    "question": "Which country won the Cricket World Cup 2011?",
+    "options": ["Australia", "India", "England", "Pakistan"],
+    "answer": "India"
+  },
+  {
+    "question": "How many balls are there in one over?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "Who is called Captain Cool?",
+    "options": ["Virat Kohli", "MS Dhoni", "Rohit Sharma", "Hardik Pandya"],
+    "answer": "MS Dhoni"
+  },
+  {
+    "question": "What is the maximum score from one legal ball?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "question": "Which cricket format is 20 overs per side?",
+    "options": ["ODI", "Test", "T20", "IPL"],
+    "answer": "T20"
+  },
+  {
+    "question": "Which country invented cricket?",
+    "options": ["India", "England", "Australia", "South Africa"],
+    "answer": "England"
+  },
+  {
+    "question": "What is LBW in cricket?",
+    "options": [
+      "Leg Before Wicket",
+      "Long Ball Wicket",
+      "Leg Bat Wicket",
+      "Late Ball Win"
+    ],
+    "answer": "Leg Before Wicket"
+  }
+],
+"2" : [
+  {
+    "question": "How many players are there in a football team?",
+    "options": ["9", "10", "11", "12"],
+    "answer": "11"
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2022?",
+    "options": ["Brazil", "Argentina", "France", "Germany"],
+    "answer": "Argentina"
+  },
+  {
+    "question": "Who is known as the GOAT of football by many fans?",
+    "options": ["Neymar", "Messi", "Mbappe", "Kane"],
+    "answer": "Messi"
+  },
+  {
+    "question": "How many minutes are played in a normal football match?",
+    "options": ["60", "70", "80", "90"],
+    "answer": "90"
+  },
+  {
+    "question": "Which organization governs world football?",
+    "options": ["ICC", "FIFA", "IOC", "UEFA"],
+    "answer": "FIFA"
+  },
+  {
+    "question": "Which player is famous for the 'Siuuu' celebration?",
+    "options": ["Messi", "Neymar", "Cristiano Ronaldo", "Modric"],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "question": "How many points are awarded for a win in football leagues?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3"
+  },
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": ["Germany", "Brazil", "Argentina", "Italy"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "What is the goalkeeper allowed to use?",
+    "options": ["Only feet", "Only head", "Hands inside penalty area", "Hands anywhere"],
+    "answer": "Hands inside penalty area"
+  },
+  {
+    "question": "What is awarded when a foul occurs inside the penalty box?",
+    "options": ["Corner", "Throw-in", "Penalty Kick", "Free Kick"],
+    "answer": "Penalty Kick"
+  }
+],
+"3": [
+  {
+    "question": "What is used to play badminton?",
+    "options": ["Ball", "Shuttlecock", "Disc", "Puck"],
+    "answer": "Shuttlecock"
+  },
+  {
+    "question": "Which Indian player won Olympic medals in badminton?",
+    "options": ["PV Sindhu", "Sania Mirza", "Mary Kom", "Mithali Raj"],
+    "answer": "PV Sindhu"
+  },
+  {
+    "question": "How many players are there in singles badminton?",
+    "options": ["1 each side", "2 each side", "3 each side", "4 each side"],
+    "answer": "1 each side"
+  },
+  {
+    "question": "Which country is famous for producing top badminton players?",
+    "options": ["China", "Brazil", "USA", "Canada"],
+    "answer": "China"
+  },
+  {
+    "question": "Badminton is played using a?",
+    "options": ["Bat", "Racket", "Club", "Stick"],
+    "answer": "Racket"
+  },
+  {
+    "question": "How many points are needed to win a badminton game?",
+    "options": ["15", "18", "21", "25"],
+    "answer": "21"
+  },
+  {
+    "question": "Which Indian male badminton player won an Olympic medal?",
+    "options": ["Kidambi Srikanth", "Lakshya Sen", "HS Prannoy", "Saina Nehwal"],
+    "answer": "Kidambi Srikanth"
+  },
+  {
+    "question": "What is the object hit during badminton?",
+    "options": ["Ball", "Shuttlecock", "Disc", "Puck"],
+    "answer": "Shuttlecock"
+  },
+  {
+    "question": "Badminton became an Olympic sport in which year?",
+    "options": ["1988", "1992", "1996", "2000"],
+    "answer": "1992"
+  },
+  {
+    "question": "Which line is used during singles play?",
+    "options": ["Outer line", "Inner side line", "Center line", "Service line"],
+    "answer": "Inner side line"
+  }
+],
+"4": [
+  {
+    "question": "How many players are on the court for one volleyball team?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "What separates the two teams in volleyball?",
+    "options": ["Wall", "Net", "Line", "Barrier"],
+    "answer": "Net"
+  },
+  {
+    "question": "How many touches are allowed before returning the ball?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "question": "Which country invented volleyball?",
+    "options": ["USA", "India", "Brazil", "Japan"],
+    "answer": "USA"
+  },
+  {
+    "question": "What is a powerful attacking hit called?",
+    "options": ["Pass", "Serve", "Spike", "Block"],
+    "answer": "Spike"
+  },
+  {
+    "question": "What is the first hit used to start a rally?",
+    "options": ["Serve", "Spike", "Block", "Pass"],
+    "answer": "Serve"
+  },
+  {
+    "question": "Which body part is commonly used to pass the ball?",
+    "options": ["Knee", "Foot", "Forearm", "Head"],
+    "answer": "Forearm"
+  },
+  {
+    "question": "How many points are usually needed to win a set?",
+    "options": ["15", "21", "25", "30"],
+    "answer": "25"
+  },
+  {
+    "question": "What is it called when a player prevents a spike at the net?",
+    "options": ["Save", "Pass", "Block", "Serve"],
+    "answer": "Block"
+  },
+  {
+    "question": "Volleyball is played with a?",
+    "options": ["Bat", "Ball", "Racket", "Shuttlecock"],
+    "answer": "Ball"
+  }
+],
+"5": [
+  {
+    "question": "How many players from one team are on the basketball court?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "question": "What is the basket called in basketball?",
+    "options": ["Goal", "Hoop", "Net", "Ring"],
+    "answer": "Hoop"
+  },
+  {
+    "question": "Which country invented basketball?",
+    "options": ["USA", "Canada", "England", "Australia"],
+    "answer": "USA"
+  },
+  {
+    "question": "How many points is a free throw worth?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "1"
+  },
+  {
+    "question": "Which is the world's most popular basketball league?",
+    "options": ["IPL", "NBA", "FIFA", "BWF"],
+    "answer": "NBA"
+  },
+  {
+    "question": "Who is known as 'King James'?",
+    "options": [
+      "Michael Jordan",
+      "LeBron James",
+      "Stephen Curry",
+      "Kobe Bryant"
+    ],
+    "answer": "LeBron James"
+  },
+  {
+    "question": "How many points is a shot from beyond the arc worth?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3"
+  },
+  {
+    "question": "What is it called when a player bounces the ball while moving?",
+    "options": ["Passing", "Shooting", "Dribbling", "Blocking"],
+    "answer": "Dribbling"
+  },
+  {
+    "question": "Which player is famous for the Chicago Bulls dynasty?",
+    "options": [
+      "LeBron James",
+      "Stephen Curry",
+      "Michael Jordan",
+      "Shaquille O'Neal"
+    ],
+    "answer": "Michael Jordan"
+  },
+  {
+    "question": "How many quarters are played in a basketball game?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  }
+]
+}

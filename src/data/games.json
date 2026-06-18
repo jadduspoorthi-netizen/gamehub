@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Cricket",
+    "questions": 10,
+    "time": 15
+  },
+  {
+    "id": 2,
+    "name": "Football",
+    "questions": 10,
+    "time": 15
+  },
+  {
+    "id": 3,
+    "name": "Badminton",
+    "questions": 10,
+    "time": 15
+  },
+  {
+    "id": 4,
+    "name": "Volleyball",
+    "questions": 10,
+    "time": 15
+  },
+  {
+    "id": 5,
+    "name": "Basketball",
+    "questions": 10,
+    "time": 15
+  }
+]
